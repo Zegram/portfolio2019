@@ -1,0 +1,27 @@
+body {
+background-image: url("./img/bg.jpg");
+background-size: cover;
+max-height: 100%;
+height: 100%;
+margin: 0;
+padding: 0;
+}
+
+html, body {
+    height: 100vh;
+    overflow: auto;
+    
+  }
+
+.White {color: white;}
+.Blue{color: skyblue;}
+.IconPadding{padding-right: 5px;}
+.Techs{ margin-top: 30px;}
+.Cursor:hover{cursor: pointer !important;}
+.Tab:hover{background-color: #2185d0 !important; cursor: pointer;}
+.Selected{background-color: #2185d0 !important;}
+.Footer{
+    position:absolute !important;
+    bottom:0 !important;
+    right:0 !important;
+}
