@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio2019/static/css/main.40d6b426.chunk.css",
+    "main.js": "/portfolio2019/static/js/main.19e3d31e.chunk.js",
+    "main.js.map": "/portfolio2019/static/js/main.19e3d31e.chunk.js.map",
+    "runtime~main.js": "/portfolio2019/static/js/runtime~main.8abb7632.js",
+    "runtime~main.js.map": "/portfolio2019/static/js/runtime~main.8abb7632.js.map",
+    "static/js/2.32d61591.chunk.js": "/portfolio2019/static/js/2.32d61591.chunk.js",
+    "static/js/2.32d61591.chunk.js.map": "/portfolio2019/static/js/2.32d61591.chunk.js.map",
+    "index.html": "/portfolio2019/index.html",
+    "precache-manifest.bcc74dd9733200ea574716b848e6f6ab.js": "/portfolio2019/precache-manifest.bcc74dd9733200ea574716b848e6f6ab.js",
+    "service-worker.js": "/portfolio2019/service-worker.js",
+    "static/css/main.40d6b426.chunk.css.map": "/portfolio2019/static/css/main.40d6b426.chunk.css.map",
+    "static/media/ael.png": "/portfolio2019/static/media/ael.16c0b4b9.png",
+    "static/media/styles.css": "/portfolio2019/static/media/bg.c18ee514.jpg",
+    "static/media/pics.png": "/portfolio2019/static/media/pics.19486e3a.png",
+    "static/media/ritualsabotage.jpg": "/portfolio2019/static/media/ritualsabotage.8760389e.jpg",
+    "static/media/rools.png": "/portfolio2019/static/media/rools.239a4e26.png",
+    "static/media/videos.png": "/portfolio2019/static/media/videos.485a9cd2.png"
+  }
+}
