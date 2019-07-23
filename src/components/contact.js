@@ -16,6 +16,8 @@ class contact extends Component {
                 <CopyToClipboard text="JoelMit@Outlook.com" onCopy={() => this.setState({copied: true})}>
                 <span onClick={this.onClick} className="Cursor IconPadding" data-tooltip="E-Mail (Copy to clipboard)"><i className="big blue mail icon" /></span>
                 </CopyToClipboard>
+
+                <span className="Cursor IconPadding" data-tooltip="CV"><a href="https://drive.google.com/file/d/1WFkweDATAflgJlljMP1mVSfzcwMxfjXm/view?usp=sharing"><i className="big blue edit outline icon" /></a></span>
             </div>
         );
     }
